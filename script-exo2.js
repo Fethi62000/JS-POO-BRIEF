@@ -18,4 +18,3 @@ class Voiture {
       console.log(`Couleur: ${this.#couleur}`);
     }
 }
-
